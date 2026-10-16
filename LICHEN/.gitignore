@@ -1,0 +1,13 @@
+# Byte-compiled
+__pycache__/
+
+# Dependencies
+ANARCI/
+Humatch/
+
+# model weights
+model/*
+!model/.gitkeep
+*.pt
+*.zip
+*.bin
